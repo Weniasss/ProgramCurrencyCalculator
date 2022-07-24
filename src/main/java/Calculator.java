@@ -23,7 +23,6 @@ public class Calculator extends CalculatorMethods {
             displayMenu();
 
             choice = input.nextInt();
-//
 
             switch (choice) {
                 case 1:                                          /* works only for count */
